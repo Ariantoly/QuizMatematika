@@ -1,0 +1,10 @@
+<resources>
+    <string name="QuizMatematika">QuizMatematika</string>
+    <string name="play">PLAY</string>
+    <string name="viewScore">VIEW SCORE</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="erase">ERASE</string>
+    <string name="submit">SUBMIT</string>
+</resources>
